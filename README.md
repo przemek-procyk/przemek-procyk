@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://app.diplomasafe.com/pl-PL/diploma/d92ea8e43c6642a9928fe51fde2de5dc0cbc0f9ac
+![image](https://user-images.githubusercontent.com/90956337/169810701-0f419b1c-9dd3-43bd-93a6-adba63c3234d.png)
